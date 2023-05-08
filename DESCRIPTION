@@ -4,10 +4,10 @@ Title: This package contains some useful risk analysis methods
 Version: 0.1.0
 Author: Cardy Moten III
 Maintainer: The package maintainer <cmoten@gmail.com>
-Description: The methods in this package are used to compute risk likelihoods and loss functions to
-prioritize risk models.
+Description: The methods in this package are used to compute risk likelihoods and loss functions to prioritize risk models.
 License: MIT
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/cmoten/stratRisk
 BugReports: https://github.com/cmoten/stratRisk/issues
+RoxygenNote: 7.2.3
